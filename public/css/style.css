@@ -8367,18 +8367,18 @@ a, button {
     color: #fc5e28;
     outline: none !important; }
 
-h1, h2, h3, h4,
+h1, h2, h3, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   color: rgba(0, 0, 0, 0.9);
   font-weight: 400;}
-h5
+h4
 {
-  font-weight: 800;
-  font-family: inherit;
+  font-weight: 500;
+  font-family:"Roboto", Arial, sans-serif;
   font-style: inherit;
   text-align: center;
-  color: #000;
+  color:#000;
 }
 .text-primary {
   color: #fc5e28 !important; }
